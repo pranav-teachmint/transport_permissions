@@ -1,0 +1,7 @@
+Indexes:
+Vehicle - index on "institute_id"
+PickupPoint - index on "institute_id"
+Route - index on "institute_id", "unit_code"
+TransportSettings - index on "institute_id"
+InstituteMembers - index on "institute_id"
+Passenger - index on "institute_id"
